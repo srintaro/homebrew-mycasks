@@ -1,6 +1,6 @@
 cask 'igor-pro' do
-  version '7.0.6'
-  sha256 '765d789d2b444fee9ebb29c07b7daf7dd0f5d7a06457ec06941deafb518553ea'
+  version '7.0.7'
+  sha256 '0d3fbea83ac6e1db0b7bb65644c2473526a03c5806575ae720b11f2976316dc7'
 
   url "http://www.wavemetrics.net/Downloads/Mac/Igor#{version.major}.dmg"
   name 'WaveMetrics Igor Pro'
