@@ -1,4 +1,4 @@
-cask 'igor-pro' do
+cask 'igor-pro8' do
   version '8.0.4'
   sha256 'c1a297865e61003b912f11a4c47dbbf19a590eb324e0cae0ef94598ebd233598'
 
