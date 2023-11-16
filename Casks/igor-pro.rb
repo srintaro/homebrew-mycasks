@@ -1,6 +1,6 @@
 cask 'igor-pro' do
-  version '9.0.4'
-  sha256 '84cc2869eac7f47621336e90ea2b1991d4968dd46b8a21d74aad915a016897fd'
+  version '9.0.5'
+  sha256 '70b75eb098c24d03dedbfbb1389b025378acd980848f2a4ec2cb281ba231e66d'
 
   # wavemetrics.net was verified as official when first introduced to the cask
   url "http://www.wavemetrics.net/Downloads/Mac/Igor#{version.major}.dmg"
